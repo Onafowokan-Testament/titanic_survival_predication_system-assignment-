@@ -9,6 +9,6 @@ Machine Learning Algorithm Used: Logistic Regression
 
 Model Persistence Method: Joblib
 
-Live URL of the Hosted Application: [To be filled after deployment on Streamlit Cloud]
+Live URL of the Hosted Application: https://titanic-assignment.streamlit.app/
 
-GitHub Repository Link: [To be filled after uploading to GitHub]
+GitHub Repository Link: https://github.com/Onafowokan-Testament/titanic_survival_predication_system-assignment-
